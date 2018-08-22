@@ -74,14 +74,14 @@
             tools:context=".LinearLayout">
         <Button
             android:id="@+id/button_9"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_below="@+id/button_8"
             android:text="BUTTON 9" />
 
         <Button
             android:id="@+id/button_10"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_below="@+id/button_8"
             android:layout_toEndOf="@+id/button_9"
@@ -90,7 +90,7 @@
 
         <Button
             android:id="@+id/button_11"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_below="@+id/button_8"
             android:layout_toEndOf="@+id/button_10"
